@@ -1,9 +1,15 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "6871068140:AAESiXBicajZbEeOjInTtTwOLrwkof7MgqI"
+OWNER_ID = 5422016608
+TELEGRAM_API = 16501053
+TELEGRAM_HASH = "d8c9b01c863dabacc484c2c06cdd0f6e"
+# OPTIONAL CONFIG
+TG_PROXY = {}
+USER_SESSION_STRING = ""
+CMD_SUFFIX = ""
+AUTHORIZED_CHATS = ""
+SUDO_USERS = ""
+DATABASE_URL = "mongodb+srv://ANAS:BLASTY@cluster0.wvytq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # OPTIONAL CONFIG
 TG_PROXY = {}            # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
